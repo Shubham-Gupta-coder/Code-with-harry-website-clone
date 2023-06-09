@@ -1,7 +1,4 @@
-import Image from 'next/image'
-import { Inter } from 'next/font/google'
-
-const inter = Inter({ subsets: ['latin'] })
+// CodeWithHarry.com but with better details
 
 export default function Home() {
   return (
